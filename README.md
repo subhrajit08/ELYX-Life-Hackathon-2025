@@ -26,6 +26,13 @@ elyx_dashboard/
 
 ---
 
+## How to Open the Project (Using VS Code)
+1. Example C:\Users\HP\Downloads\ChatLog\ChatLog\build\v3 open in VS Code > Open index.html
+2. Example C:\Users\HP\Downloads\Elyx_Healthcare_Dashboard.zip\build\v3 open in VS Code > Open index.html
+
+3. If an Error Page is encountered> Click on Return to Home
+4. If the above steps do not work then try to follow the following steps(Installation and Setup) and then return this step.
+ 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
